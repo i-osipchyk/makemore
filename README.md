@@ -1,2 +1,2 @@
 # makemore
-makemore model from Andrey Karpathy course
+makemore model from Andrej Karpathy course
